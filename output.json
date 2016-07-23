@@ -1,0 +1,122 @@
+[
+    {
+        "name": "El Arbiati Latifa",
+        "address": "5 r D'Estienne d'Orves, 84000 AVIGNON",
+        "category": "pains, pâtisseries (terminaux de cuisson)",
+        "phone": "09 50 53 93 39"
+    },
+    {
+        "name": "Elfia Nature",
+        "address": "220 r 12ème Régiment de Zouave, 84000 AVIGNON",
+        "category": "produits diététiques, naturels",
+        "phone": "04 90 82 08 27"
+    },
+    {
+        "name": "Elidis Boissons Services (EURL)",
+        "address": "9015 av St Chamand, 84000 AVIGNON",
+        "category": "alimentation (distribution, gros)",
+        "phone": "08 21 20 16 64"
+    },
+    {
+        "name": "EM FESTE (SARL)",
+        "address": "Hles Centrales 18 pl Pie, 84000 AVIGNON",
+        "category": "charcuteries",
+        "phone": "04 90 86 65 73"
+    },
+    {
+        "name": "EPICERIE D OR",
+        "address": "7 r St Michel, 84000 AVIGNON",
+        "category": "alimentation, supérettes",
+        "phone": "04 86 34 99 43"
+    },
+    {
+        "name": "ETOILE GOURMANDE",
+        "address": "bât L2 Le Min D'avignon 135 av Pierre Sémard, 84000 AVIGNON",
+        "category": "alimentation (distribution, gros)",
+        "phone": "04 90 31 28 41"
+    },
+    {
+        "name": "Europrix",
+        "address": "34 Quinquies av Moulin Notre Dame, 84000 AVIGNON",
+        "category": "supermarchés, hypermarchés",
+        "phone": "04 90 82 98 32"
+    },
+    {
+        "name": "Favede Denis (EURL)",
+        "address": "431 r René Cassin, 84000 AVIGNON",
+        "category": "boulangeries-pâtisseries (artisans)",
+        "phone": "04 90 85 94 71"
+    },
+    {
+        "name": "Fénateau",
+        "address": "Halles Centrales 18 pl Pie, 84000 AVIGNON",
+        "category": "poissonneries",
+        "phone": "04 90 85 36 47"
+    },
+    {
+        "name": "Fillière Frères (SNC)",
+        "address": "halles pl Pie, 84000 AVIGNON",
+        "category": "charcuteries",
+        "phone": "04 90 82 97 50"
+    },
+    {
+        "name": "Flavor Cie",
+        "address": "39 r Saraillerie, 84000 AVIGNON",
+        "category": "épiceries fines",
+        "phone": "06 51 70 14 14"
+    },
+    {
+        "name": "Food Center Avignon",
+        "address": "2 r Ancienne Tannerie, 84000 AVIGNON",
+        "category": "alimentation (distribution, gros)",
+        "phone": "04 86 68 66 33"
+    },
+    {
+        "name": "FOOD CENTER AVIGNON (sarl)",
+        "address": "2 r Ancienne Tannerie, 84000 AVIGNON",
+        "category": "alimentation (distribution, gros)",
+        "phone": "04 90 16 03 89"
+    },
+    {
+        "name": "France Agro",
+        "address": "135 av Pierre Sémard, 84000 AVIGNON",
+        "category": "alimentation (distribution, gros)",
+        "phone": "04 90 02 23 56"
+    },
+    {
+        "name": "Garouche Mostafa",
+        "address": "124 av Tarascon, 84000 AVIGNON",
+        "category": "alimentation, supérettes",
+        "phone": "04 32 70 12 25"
+    },
+    {
+        "name": "Géant Casino",
+        "address": "CC Capsud 162 av Pierre Sémard, 84000 AVIGNON",
+        "category": "supermarchés, hypermarchés",
+        "phone": "04 90 13 54 00"
+    },
+    {
+        "name": "Géant Casino Drive",
+        "address": "Ccal Cap Sud 162 av Pierre Sémard, 84000 AVIGNON",
+        "category": "supermarchés, hypermarchés",
+        "phone": "04 90 13 54 00"
+    },
+    {
+        "name": "Gerard leroy designer alimentaire",
+        "address": "2 pl Carmes, 84000 AVIGNON",
+        "category": "chocolateries, confiseries",
+        "phone": "04 13 66 35 80"
+    },
+    {
+        "name": "G'M Glaces Pâtisseries",
+        "address": "5 r Henri Fabre, 84000 AVIGNON",
+        "category": "glaciers",
+        "phone": "06 10 20 02 34"
+    },
+    {
+        "name": "Good Price",
+        "address": "135 av Pierre Sémard, 84000 AVIGNON",
+        "category": "alimentation (distribution, gros)",
+        "phone": "06 06 58 31 89"
+    }
+]
