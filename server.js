@@ -1,8 +1,9 @@
-var express = require('express');
-var fs = require('fs');
-var request = require('request');
-var cheerio = require('cheerio');
-var app = express();
+const express = require('express');
+const fs = require('fs');
+const request = require('request');
+const cheerio = require('cheerio');
+const app = express();
+const Console = require('console').Console;
 
 function scrape(html) {
     var $ = cheerio.load(html);
@@ -24,8 +25,8 @@ function scrape(html) {
 }
 
 function write(fd, json) {
-    fs.write(fd, JSON.stringify(json, null, 4), null, function(err) {
-        console.log('File successfully writen !');
+    fs.write(fd, JSON.stringify(json, null, 4), null, function() {
+        Console.log('File successfully writen !');
     });
 }
 
@@ -33,10 +34,9 @@ function requestUrl(url, fd) {
     request(url, function(error, response, html) {
         if (!error) {
             var $ = cheerio.load(html);
-            var error = false;
             $('.no-response').filter(function() {
                 var data = $(this);
-                console.log(data.children().text().trim())
+                Console.log(data.children().text().trim())
                 if (data.children().text().trim() != '') {
                     //requestUrl(url);
                     error = true;
@@ -62,6 +62,6 @@ app.get('/scrape', function(req, res) {
 
 app.listen('8081')
 
-console.log('Magic happens on port 8081');
+Console.log('Magic happens on port 8081');
 
 exports = module.exports = app;
